@@ -93,7 +93,7 @@ a span {
     z-index: 1;
     display: inline-block;
     transition: color 0.3s ease;
-    text-decoration: underline wavy 0.1em;
+    text-decoration: underline wavy;
     text-decoration-skip-ink: none;
     padding-bottom: 0.1em;
 }
